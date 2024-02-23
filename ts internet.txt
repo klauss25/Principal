@@ -1,0 +1,4 @@
+Server Query Admin Account created
+         loginname= "serveradmin", password= "8qiQ0wPq"
+
+         token=pdDhfkjMRBeCyhvqrg3epLXTtFbGGSv9P8Q708un
